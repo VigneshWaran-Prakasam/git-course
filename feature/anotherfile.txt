@@ -1,3 +1,5 @@
-this new one please see
+This line was replace in future-2 branch 
 
 This file was modified locally
+
+this line was added in future-2 branch

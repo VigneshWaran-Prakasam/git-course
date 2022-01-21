@@ -1,4 +1,4 @@
 # git-course
 learn git from git course
 Cancel changes
-Readme file was editied in locally
+This file modified during merge conflict
